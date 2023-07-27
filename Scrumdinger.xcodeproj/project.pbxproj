@@ -20,6 +20,7 @@
 		20B460B62A7311D400B6287E /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B460B52A7311D400B6287E /* TrailingIconLabelStyle.swift */; };
 		20B460BA2A7316BE00B6287E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 20B460B92A7316BE00B6287E /* README.md */; };
 		20B460BC2A7317AF00B6287E /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B460BB2A7317AF00B6287E /* ScrumsView.swift */; };
+		20B460BE2A73204600B6287E /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B460BD2A73204600B6287E /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		20B460B52A7311D400B6287E /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		20B460B92A7316BE00B6287E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		20B460BB2A7317AF00B6287E /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		20B460BD2A73204600B6287E /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				2017EA872A73024600F5F91E /* CardView.swift */,
 				2017EA5A2A72EF2600F5F91E /* Assets.xcassets */,
 				2017EA5C2A72EF2600F5F91E /* Preview Content */,
+				20B460BD2A73204600B6287E /* DetailView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2017EA862A7300F000F5F91E /* DailyScrum.swift in Sources */,
+				20B460BE2A73204600B6287E /* DetailView.swift in Sources */,
 				20B460B62A7311D400B6287E /* TrailingIconLabelStyle.swift in Sources */,
 				2017EA842A72FE9100F5F91E /* Theme.swift in Sources */,
 				20B460BC2A7317AF00B6287E /* ScrumsView.swift in Sources */,
